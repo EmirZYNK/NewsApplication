@@ -1,0 +1,99 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Android template
+# Built application files
+*.apk
+*.aab
+*.ap_
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Log files
+*.log
+
+# Android Studio Navigation editor files
+.navigation/
+
+# Android Studio captures folder
+captures/
+
+# Generated files
+dependencies.pb
+dependencies_reports.pb
+generated.pb
+
+# Raw Android Studio Allan Deviation files
+*.adev
+
+# IntelliJ
+*.iml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/assetWizardSettings.xml
+.idea/dictionaries
+.idea/libraries/
+.idea/shelf/
+# Deprecated .idea format (may be removed in a future AS version)
+.idea/dynamic.xml
+.idea/uiDesigner.xml
+# Keystore files
+# Uncomment the following lines if you want to ignore your keystore files
+# (default: NOT ignored)
+#*.jks
+#*.keystore
+
+# External native build folder generated in Android Studio 2.2 and later
+.cxx/
+
+# Google Services (e.g. APIs or Firebase)
+# google-services.json should be ignored if it contains API keys and other sensitive information.
+# It is recommended to place google-services.json in the project root directory and add it to .gitignore.
+# Alternatively, you can create a mock google-services.json file for development and CI/CD environments.
+# google-services.json
+
+# Secrets
+# It is recommended to store secrets in a local.properties file and add it to .gitignore.
+# For more information, see https://developer.android.com/studio/build/gradle-tips#share-secrets
+local.properties
+/local.properties
+# Android Studio Profiler
+*.hprof
+*.snapshot
+*. மத்திய வங்கி
+
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties 
+
+# Flutter files
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.metadata
+*.dart_tool/
+**/ios/Flutter/.last_build_id
+**/ios/Flutter/App.framework
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/flutter_assets/
+**/ios/Runner/GeneratedPluginRegistrant.*
+**/ios/ServiceDefinitions.json
+**/ios/eflutter.xcconfig
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/Runner/Info.plist # If it contains API keys or other sensitive information
+**/android/app/src/main/AndroidManifest.xml # If it contains API keys or other sensitive information
+**/android/key.properties # If it contains API keys or other sensitive information
+
+# Various IDEs
+.vscode/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
